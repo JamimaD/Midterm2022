@@ -13,6 +13,8 @@ public class PrimeNumber {
 		 *
 		 */
 
+		int n = 1000000;
+
 	}
 
 }
